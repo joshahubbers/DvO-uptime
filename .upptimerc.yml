@@ -63,7 +63,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /DvO-uptime
-  logoUrl: /assets/upptime-icon.svg
+  logoUrl: /upptime-icon.svg
   name: DvO uptime
   introTitle: "**DvO uptime** is the open-source uptime monitor and status page for DvO websites, powered entirely by GitHub."
   introMessage: Here you can see the **real-time** data from our [DvO status](https://joshahubbers.github.io/DvO-uptime/).
