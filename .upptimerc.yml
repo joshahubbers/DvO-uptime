@@ -3,8 +3,60 @@ owner: joshahubbers # Your GitHub organization or username, where this repositor
 repo: DvO-uptime # The name of this repository
 
 sites:
+  - name: Amersfoort
+    url: https://www.amersfoort.nl
+  - name: Amstelveen
+    url: https://www.amstelveen.nl
+  - name: Bevelanden
+    url: https://www.grdebevelanden.nl
   - name: Breda
     url: https://www.breda.nl
+  - name: Dantumadiel
+    url: https://www.dantumadiel.frl
+  - name: Delft
+    url: https://www.delft.nl
+  - name: DvO Demo
+    url: https://prod.dvgemdemo.hosted-temp.com
+  - name: Edam-Volendam
+    url: https://www.edam-volendam.nl
+  - name: Eemsdelta
+    url: https://www.eemsdelta.nl
+  - name: Epe
+    url: https://www.epe.nl
+  - name: Gennep
+    url: https://www.gennep.nl
+  - name: Haarlem
+    url: https://haarlem.nl
+  - name: Krimpenerwaard
+    url: https://www.krimpenerwaard.nl
+  - name: Mechelen
+    url: https://www.mechelen.be
+  - name: Midden-Groningen
+    url: https://www.midden-groningen.nl
+  - name: Molenlanden
+    url: https://www.molenlanden.nl
+  - name: Montferland
+    url: https://www.montferland.info
+  - name: Noaberkracht
+    url: https://www.dinkelland.nl
+  - name: Noardeast-Fryslan
+    url: https://www.noardeast-fryslan.nl
+  - name: Noordenveld
+    url: https://www.noordenveld.nl
+  - name: Oude IJsselstreek
+    url: https://www.oude-ijsselstreek.nl
+  - name: Rijswijk
+    url: https://www.rijswijk.nl
+  - name: Rotterdam
+    url: https://www.rotterdam.nl
+  - name: Rotterdam stadsarchief
+    url: https://stadsarchief.rotterdam.nl
+  - name: Schagen
+    url: https://www.schagen.nl
+  - name: Venlo
+    url: https://www.venlo.nl
+  - name: Westerwolde
+    url: https://www.westerwolde.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
