@@ -1,7 +1,7 @@
 url: https://www.grdebevelanden.nl
-status: up
-code: 200
-responseTime: 582
-lastUpdated: 2026-01-26T23:16:06.918Z
+status: down
+code: 500
+responseTime: 800
+lastUpdated: 2026-01-27T03:21:44.527Z
 startTime: 2026-01-05T08:08:37.760Z
 generator: Upptime <https://github.com/upptime/upptime>
